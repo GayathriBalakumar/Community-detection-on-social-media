@@ -1,2 +1,9 @@
 # Community-detection-on-social-media
-This work aims at automating social circle identification and friend suggestions
+
+Objective: automatic community detection on facebook data keyed in as Graph data structure. 
+Tool used: Pyspark
+Platform : built and tested on databricks cluster
+library used: python - igraph 
+performace measure: modularity 
+
+
